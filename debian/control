@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: Display7SegShadow.h
-Description: 7 Segment Display with Shadow digits font for DisplayCore
+Description: 7 Segment Display with Shadow digits
