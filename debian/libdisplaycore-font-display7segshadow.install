@@ -1,3 +1,4 @@
-Display7SegShadow32.cpp libraries/DisplayCore/Display7SegShadow
-Display7SegShadow48.cpp libraries/DisplayCore/Display7SegShadow
-Display7SegShadow.h libraries/DisplayCore/Display7SegShadow
+library.json libraries/DisplayCore/Display7SegShadow
+library.properties libraries/DisplayCore/Display7SegShadow
+README.md libraries/DisplayCore/Display7SegShadow
+src libraries/DisplayCore/Display7SegShadow
